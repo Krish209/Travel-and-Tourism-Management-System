@@ -161,21 +161,8 @@ The application uses MySQL as the backend database. The database schema includes
 
 ![image](https://github.com/user-attachments/assets/18e20414-7e73-44ee-a5a9-040db2ee4284)
 
-
-
-![Signup](path/to/signup.png)
-![Login](path/to/login.png)
-![Book Flight](path/to/book-flight.png)
-![View Booked Flights](path/to/view-booked-flights.png)
-![Book Hotel](path/to/book-hotel.png)
-![View Booked Hotels](path/to/view-booked-hotels.png)
-![Book Package](path/to/book-package.png)
-![View Booked Packages](path/to/view-booked-packages.png)
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
