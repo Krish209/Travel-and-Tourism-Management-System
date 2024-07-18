@@ -149,6 +149,20 @@ The application uses MySQL as the backend database. The database schema includes
 
 ## Screenshots
 
+![image](https://github.com/user-attachments/assets/56fbd6c9-e2a6-469b-8874-5788a5c02d3c)
+
+![image](https://github.com/user-attachments/assets/c79ca99c-9d3b-4228-9674-f6fca4a8271b)
+
+![image](https://github.com/user-attachments/assets/1dbd711d-207d-4d99-9d86-0f52466de97b)
+
+![image](https://github.com/user-attachments/assets/ecabed9b-b715-4ac3-956e-621e4b42fc5d)
+
+![image](https://github.com/user-attachments/assets/e3bc1fdc-7a93-45f9-aaa6-7a7a86b40f6f)
+
+![image](https://github.com/user-attachments/assets/18e20414-7e73-44ee-a5a9-040db2ee4284)
+
+
+
 ![Signup](path/to/signup.png)
 ![Login](path/to/login.png)
 ![Book Flight](path/to/book-flight.png)
